@@ -1,10 +1,4 @@
-﻿//creating the program
-class ConveyorBelt
-{
-//entry point
-static void Main()
-{
-// Create a option to enter number of motors carrying packages. It's an int because it's an whole number
+﻿//I create a option to enter number of motors carrying packages. It's an int because it's an whole number
 Console.Write("How many motors are carrying the packages? ");
 int motors = int.Parse(Console.ReadLine());
 
@@ -17,13 +11,12 @@ double weight = double.Parse(Console.ReadLine());
 double W_calc = weight / motors;
 
 // Checking if the weight is within the motor limits with branching. 
-if (W_calc <= 5.6)
-{
-    Console.WriteLine("Yes, Conveyor belt can carry packages.");
-}
-else
-{
-    Console.WriteLine("No, Conveyor belt cant carry packages.");
-}
-}
-}
+    if (W_calc <= 5.6)
+    {
+    Console.WriteLine("Yes, the conveyor belt can carry the packages.");
+    }
+    else
+    {
+    Console.WriteLine("No,  the conveyor belt cant carry packages.");
+    }
+ 

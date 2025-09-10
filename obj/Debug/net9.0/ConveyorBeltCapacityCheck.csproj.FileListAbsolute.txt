@@ -12,3 +12,4 @@ C:\Users\chris\Documents\5 semester\62236 Industrial Programming\ConveyorBeltCap
 C:\Users\chris\Documents\5 semester\62236 Industrial Programming\ConveyorBeltCapacityCheck\obj\Debug\net9.0\ConveyorBeltCapacityCheck.pdb
 C:\Users\chris\Documents\5 semester\62236 Industrial Programming\ConveyorBeltCapacityCheck\obj\Debug\net9.0\ConveyorBeltCapacityCheck.genruntimeconfig.cache
 C:\Users\chris\Documents\5 semester\62236 Industrial Programming\ConveyorBeltCapacityCheck\obj\Debug\net9.0\ref\ConveyorBeltCapacityCheck.dll
+C:\Users\chris\Documents\5 semester\62236 Industrial Programming\ConveyorBeltCapacityCheck\obj\Debug\net9.0\ConveyorBeltCapacityCheck.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConveyorBeltCapacityCheck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3659e00715b57c1b8ba7c1284b415e14a3f3b88c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConveyorBeltCapacityCheck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConveyorBeltCapacityCheck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
